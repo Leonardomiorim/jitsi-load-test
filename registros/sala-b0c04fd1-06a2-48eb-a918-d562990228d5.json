@@ -1,0 +1,11 @@
+{
+  "scheduleId": "b0c04fd1-06a2-48eb-a918-d562990228d5",
+  "scheduleToken": "4414a5e4eb4e375c77f45901b35e617d",
+  "status": "pending",
+  "pepAssistantIframeUrl": "https://dev-conferencia.pepunimed.com.br/video-conference-iframe/assistant/b0c04fd1-06a2-48eb-a918-d562990228d5",
+  "pepDoctorIframeUrl": "https://dev-conferencia.pepunimed.com.br/video-conference-iframe/doctor/b0c04fd1-06a2-48eb-a918-d562990228d5",
+  "pepPatientIframeUrl": "https://dev-conferencia.pepunimed.com.br/video-conference-iframe/patient/b0c04fd1-06a2-48eb-a918-d562990228d5",
+  "urlToPatient": "https://dev-conferencia.pepunimed.com.br/home/4414a5e4eb4e375c77f45901b35e617d",
+  "roomPassword": "192a34cc-f1f7-4682-8885-445cde5b7409",
+  "roomUrl": "https://dev-conferenciajitsi.pepunimed.com.br/4414a5e4eb4e375c77f45901b35e617d"
+}

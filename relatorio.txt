@@ -1,0 +1,17 @@
+Relatório de Execução de Carga - Jitsi
+
+Sala 2 - Médico finalizado com sucesso em 129.54s
+Sala 3 - Assistente finalizado com sucesso em 129.57s
+Sala 5 - Paciente finalizado com sucesso em 129.65s
+Sala 2 - Assistente finalizado com sucesso em 130.40s
+Sala 1 - Paciente finalizado com sucesso em 129.68s
+Sala 5 - Médico finalizado com sucesso em 129.79s
+Sala 4 - Paciente finalizado com sucesso em 129.93s
+Sala 4 - Assistente finalizado com sucesso em 129.45s
+Sala 1 - Assistente finalizado com sucesso em 129.59s
+Sala 1 - Médico finalizado com sucesso em 130.11s
+Sala 3 - Paciente finalizado com sucesso em 129.99s
+Sala 2 - Paciente finalizado com sucesso em 129.67s
+Sala 3 - Médico finalizado com sucesso em 130.06s
+Sala 4 - Médico finalizado com sucesso em 129.87s
+Sala 5 - Assistente finalizado com sucesso em 140.22s
