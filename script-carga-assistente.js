@@ -74,7 +74,7 @@ async function criarSala() {
 
 async function simularUsuario(url, role, salaId) {
   const browser = await chromium.launch({
-    headless: true,
+    headless: false,
     args: [
       '--use-fake-ui-for-media-stream',
       '--use-fake-device-for-media-stream',

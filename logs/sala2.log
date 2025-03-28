@@ -37,3 +37,15 @@
 [2025-03-27T18:38:38.787Z] Médico finalizado em 129.54s
 [2025-03-27T18:38:39.023Z] Assistente finalizado em 130.40s
 [2025-03-27T18:38:39.366Z] Paciente finalizado em 129.67s
+[2025-03-27T20:10:04.814Z] Médico acessando https://dev-conferencia.pepunimed.com.br/video-conference-iframe/doctor/a640e122-9885-4a0e-9f47-e8b8e7001727
+[2025-03-27T20:10:04.824Z] Paciente acessando https://dev-conferencia.pepunimed.com.br/video-conference-iframe/patient/a640e122-9885-4a0e-9f47-e8b8e7001727
+[2025-03-27T20:10:04.825Z] Assistente acessando https://dev-conferencia.pepunimed.com.br/video-conference-iframe/assistant/a640e122-9885-4a0e-9f47-e8b8e7001727
+[2025-03-27T20:12:05.458Z] Assistente acessando https://dev-conferencia.pepunimed.com.br/video-conference-iframe/assistant/7410585e-55f1-4713-a958-6153937ab850
+[2025-03-27T20:12:05.621Z] Médico acessando https://dev-conferencia.pepunimed.com.br/video-conference-iframe/doctor/7410585e-55f1-4713-a958-6153937ab850
+[2025-03-27T20:12:05.629Z] Paciente acessando https://dev-conferencia.pepunimed.com.br/video-conference-iframe/patient/7410585e-55f1-4713-a958-6153937ab850
+[2025-03-27T20:14:45.551Z] Médico acessando https://dev-conferencia.pepunimed.com.br/video-conference-iframe/doctor/1238775d-b2c3-4c5f-9188-b5a9b8490263
+[2025-03-27T20:14:45.647Z] Paciente acessando https://dev-conferencia.pepunimed.com.br/video-conference-iframe/patient/1238775d-b2c3-4c5f-9188-b5a9b8490263
+[2025-03-27T20:14:45.762Z] Assistente acessando https://dev-conferencia.pepunimed.com.br/video-conference-iframe/assistant/1238775d-b2c3-4c5f-9188-b5a9b8490263
+[2025-03-27T20:16:56.184Z] Assistente finalizado em 130.42s
+[2025-03-27T20:16:56.356Z] Paciente finalizado em 130.71s
+[2025-03-27T20:16:56.381Z] Médico finalizado em 130.90s
